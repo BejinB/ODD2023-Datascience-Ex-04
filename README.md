@@ -29,7 +29,7 @@ Find the pairwise correlation of all columns in the dataframe.corr()
 Save the final data set into the file
 # PROGRAM:
 DEVELOPED BY: BEJIN B   
-register number : 212222230021
+REG NO : 212222230021
 # diabetes.csv
 ## Code:
 ```
